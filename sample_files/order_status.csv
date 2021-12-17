@@ -1,0 +1,4 @@
+status_code,status
+1,DECLINED
+2,CANCELLED
+3,APPROVED
